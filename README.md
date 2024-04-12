@@ -1,3 +1,6 @@
+![Header](./header-github.png)
+
+
 <p>🔭 I'm currently working on Qivio & Chango</p>
 
 ## 💻 Skills
@@ -23,14 +26,3 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/beno%C3%AEt-favrie-44a37a203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/https://www.instagram.com/benoit.fvr/?hl=fr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=benoitfvr">
-</p>
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=benoitfvr&show_icons=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=benoitfvr"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benoitfvr&layout=compact"><p>
