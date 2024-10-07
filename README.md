@@ -1,7 +1,7 @@
 ![Header](./header-benoitfvr.png)
 
 
-<p>🔭 I'm currently working on Qivio & Chango</p>
+<p>🔭 I'm currently working at L'esprit critique</p>
 
 ## 💻 Skills
 <p>
